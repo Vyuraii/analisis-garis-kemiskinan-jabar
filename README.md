@@ -18,7 +18,7 @@ Dashboard interaktif berbasis **Streamlit** untuk memvisualisasikan tren dan per
 ```
 📁 dashboard-kemiskinan-jabar/
 ├── dashboard.py                          # File utama aplikasi Streamlit
-├── bps-od_20003_garis_kemiskinan_...csv  # Dataset BPS Jawa Barat
+├── kemiskinan_jabar.csv                  # Dataset BPS Jawa Barat
 ├── requirements.txt                      # Daftar dependensi Python
 └── README.md                             # Dokumentasi ini
 ```
